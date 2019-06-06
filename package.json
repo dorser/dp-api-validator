@@ -1,0 +1,18 @@
+{
+  "name": "api-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "dp-api-validator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sway": "^2.0.6",
+    "yargs": "^13.2.4"
+  }
+}
